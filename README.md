@@ -28,7 +28,7 @@
 - **Research Focus:** Explainable AI (XAI), controllable generative models for biology (protein design, biomolecular modeling)  
 - **Previously:**  
   - B.Eng in Electronic Information @ [HUST](https://www.hust.edu.cn/)  
-  - Exchange student @ UC Berkeley — CS188 *Artificial Intelligence*  
+  - Exchange student @ UC Berkeley 
 
 ## 🎯 Research Interests
 - LLMs for **AI agents** (decision-making & reasoning)  
